@@ -2,8 +2,8 @@
 
 This is a Python implementation of the Doubly Stochastic Projected
 Fixed Point (DSPFP) algorithm for the approximate solution of the
-Quadratic Assignment Problem / Graph Matching. the DSPFP was proposed
-in:
+Quadratic Assignment Problem (QAP) / Graph Matching (GM). the DSPFP
+was proposed in:
 
 Yao Lu, Kaizhu Huang, and Cheng-Lin Liu. Doubly stochastic projected
 Fixed-Point algorithm for large graph matching. Pattern Recognition,
